@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Again - Mi Aplicación React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una aplicación React creada con Create React App. El proyecto está listo para desarrollo y despliegue.
+
+## 🚀 Características
+
+- ⚛️ React 19.2.0
+- 🎨 CSS moderno y responsive
+- ✅ Testing con Jest y React Testing Library
+- 🔧 Scripts de desarrollo y producción incluidos
 
 ## Available Scripts
 

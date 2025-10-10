@@ -6,16 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>¡Bienvenido a mi App React!</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Esta es mi aplicación React personalizada, lista para GitHub.
+        </p>
+        <p>
+          Desarrollada por <strong>Menendez2004</strong> 🚀
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ver en GitHub
         </a>
       </header>
     </div>
