@@ -29,7 +29,7 @@ function App() {
               className="envelope-image"
             />
             <div className="envelope-message">
-              <p>Te extraño mucho 💕</p>
+              <p>Te extraño mucho :(</p>
             </div>
           </div>
         )}
